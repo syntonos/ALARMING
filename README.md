@@ -76,11 +76,19 @@ Firmware written in Arduino IDE. Flash by copying code into Arduino IDE, then fl
 - 1x Vibrating Motor
 
 ## BOM (Expanded)
-- 1x PCB (back side PCBA)
+- 1x PCB (back side PCBA, all files provided in )
+    - $41.32 - [JLCPCB](jlcpcb.com) 
 - 2x Seeed Xiao ESP32-C3
+    - $9.21 - [Amazon](https://www.amazon.com/Seeed-Studio-XIAO-ESP32-ESP32C5/dp/B0B94JZ2YF?sr=8-7)
 - 4x Seven-segment Display 
+    - $0.87 - [LCSC](https://www.lcsc.com/product-detail/C8093.html?s_z=n_q_p_XDK-5161&spm=wm.ssy.bg.1.xh&lcsc_vid=RABbBlVeFVhZUgACR1hWUFJVFARYBlMCRFdeAwZVQlkxVlNeRFlbUVdfTlhdUDsOAxUeFF5JWBYZEEoKFBINSQcJGk4MFQUIE0wKAhAHHg1BVV1QWQkaCgg%3D)
 - 1x Rotary Encoder EC11
+    - $2.12 - [LCSC](https://www.lcsc.com/product-detail/C361167.html?s_z=n_q_t_EC11&spm=wm.fly.bg.2.xh___wm.ssy.tc.2.tz&lcsc_vid=QlRWUwBRRlFXAwBeFQAIBVNRRVULAwEEQAVaAVIAQQQxVlNeT1JfUlBXR1hWVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D)
 - 2x 4x4mm Push Switch
+    - $4.77 - [Aliexpress](https://www.aliexpress.us/item/3256812363662693.html?spm=a2g0o.productlist.main.2.9f2afc6hfc6hgc&algo_pvid=ce5fb20e-1501-429b-bf35-2a32c0622efe&algo_exp_id=ce5fb20e-1501-429b-bf35-2a32c0622efe-1&pdp_ext_f=%7B%22order%22%3A%2215%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%214.37%210.99%21%21%2129.36%216.66%21%402101e81117861057478814823e0e95%2112000058673759179%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Abf24fdfb%3Bm03_new_user%3A-29895%3BpisId%3A5000000210792324&curPageLogUid=IB3bPPIi35gd&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005012549977445%7C_p_origin_prod%3A)
 - 1x 3mm LED
+    - $6.99 - [Amazon](https://www.amazon.com/CHANZON-Assortment-Colors-Clear-Transparent/dp/B01AUI4W5U?sr=8-3)
 - 1x OLED Display
+    - $6.88 - [Amazon](https://www.amazon.com/Screen-128x32-Display-SSD1306-Arduino/dp/B0DZGLN4FK?sr=8-4)
 - 1x Vibrating Motor
+    - $5.99 [Amazon](https://www.amazon.com/DIANN-Vibration-Button-Type-Vibrating-Appliances/dp/B0B4SMZCPW/ref=sr_1_2?sr=8-2)
