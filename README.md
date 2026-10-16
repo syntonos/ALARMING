@@ -3,10 +3,8 @@
 ![CAD](/Assets/CAD_top.png)
 A small vibrating alarm that only turns off when you get up and hunt down another ESP32 button. For extra fun, you can ask your friends to hide it for you :) 
 
-**Find the button to turn it off!**
-
 ## About
-I am mildly bad at waking up in the mornings, and I think part of it is that I can just hit snooze on my alarm in bed. This is a way of circumventing that without making enough sound to annoy everyone living with me. Fun for if you have roommates!
+I am mildly bad at waking up in the mornings, and I think part of it is that I can just hit snooze on my alarm in bed. This is a way of circumventing that without making enough sound to annoy everyone living with me. Fun for if you have roommates.
 
 ## Assembly Instructions
 ### MAIN
@@ -39,7 +37,7 @@ Solder down the:
     ![alt text](image-6.png)
 
 3D-printed Case: 
-- Print out the case! Take out any support struts if you have any. Insert heatsinks (4x M2 5mm for top, 4x M2 10mm for bottom half) Place the top half, making sure the port cutout is where the USB-C port is, then place the bottom half, aligning the port in the same way. Screw down the housing (4x M2 14mm Screws).
+- Print out the case. Insert heatsinks (4x M2 5mm for top, 4x M2 10mm for bottom half) Place the top half, making sure the port cutout is where the USB-C port is, then place the bottom half, aligning the port in the same way. Screw down the housing (4x M2 14mm Screws).
 
 ### Button
 Use a keyboard switch, then solder one pin to GND on a Seeed Xiao ESP32, and another to D0. 
